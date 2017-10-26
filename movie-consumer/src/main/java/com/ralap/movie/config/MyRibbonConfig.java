@@ -7,10 +7,12 @@ import org.springframework.context.annotation.Configuration;
 
 /**
  * MyRibbonConfig
- * @author: ralap 
+ *
+ * @author: ralap
  * @date: created at 2017/10/25 23:25
  */
-@Configuration
+//@Configuration
+//@ExcudeAnnotatio
 public class MyRibbonConfig {
 
     @Bean
