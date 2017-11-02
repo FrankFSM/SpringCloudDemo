@@ -23,14 +23,19 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="eurek-aserver" />
+        <module name="eureka-ha-server" />
         <module name="movie-consumer" />
+        <module name="movie-feign" />
         <module name="SpringCloudDemo" />
         <module name="user-provider" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="eurek-aserver" target="1.8" />
+      <module name="eureka-ha-server" target="1.8" />
       <module name="movie-consumer" target="1.8" />
+      <module name="movie-feign" target="1.8" />
+      <module name="movie-hsytrix" target="1.8" />
       <module name="SpringCloudDemo" target="1.8" />
       <module name="user-provider" target="1.8" />
     </bytecodeTargetLevel>

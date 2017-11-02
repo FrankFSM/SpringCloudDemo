@@ -3,7 +3,10 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/eurek-aserver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-ha-server" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/movie-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/movie-feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/movie-hsytrix" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/user-provider" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>

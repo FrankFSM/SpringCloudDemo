@@ -4,7 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SpringCloudDemo.iml" filepath="$PROJECT_DIR$/SpringCloudDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/eurek-aserver/eurek-aserver.iml" filepath="$PROJECT_DIR$/eurek-aserver/eurek-aserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-ha-server/eureka-ha-server.iml" filepath="$PROJECT_DIR$/eureka-ha-server/eureka-ha-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/movie-consumer/movie-consumer.iml" filepath="$PROJECT_DIR$/movie-consumer/movie-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/movie-feign/movie-feign.iml" filepath="$PROJECT_DIR$/movie-feign/movie-feign.iml" />
       <module fileurl="file://$PROJECT_DIR$/user-provider/user-provider.iml" filepath="$PROJECT_DIR$/user-provider/user-provider.iml" />
     </modules>
   </component>
